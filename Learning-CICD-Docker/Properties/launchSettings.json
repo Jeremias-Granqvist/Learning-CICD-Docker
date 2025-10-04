@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Learning-CICD-Docker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
